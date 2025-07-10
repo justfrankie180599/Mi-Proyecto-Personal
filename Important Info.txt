@@ -1,5 +1,5 @@
-Timesheet:
-Work on Global IT Tickets
+Timesheet: No se envio
+Work on Global IT Tickets Tal vez
 AMS Status Update - Weekly Meeting
 WMX IT Status Update - Monthly Meeting
 IT Onboarding - Laptop Setup (New Contractor)
@@ -10,7 +10,7 @@ DELL Support Ticket Creation - IT Support
 Ticket 
 ___________________________________________________________________
 Email Address Book (DELL):
-Tech support: kristy.quintero@dell.com
+Tech support: kristy.quintero@dell.com.mx
 Customer Service: darnell_lambert@dell.com
 Sales Dep: jahir_rodriguez@dell.com
 Sales Dep: dalys_martinez@dell.com
@@ -22,4 +22,4 @@ Hoping you are doing great!
 Could you please let me know once you have a couple of minutes? I need to update some information on your laptop, it won't take more than 5 minutes.
 ___________________________________________________________________
 Links:
-https://portal.manage.microsoft.com/EnrollmentRedirect.aspx
+https://portal.manage.microsoft.com/EnrollmentRedirect.aspx.xxx
